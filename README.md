@@ -9,4 +9,5 @@ Fitur:
 - Tidak ada konflik lampu
 
 https://www.tinkercad.com/things/96KnDT1PANR-copy-of-traffic-light?sharecode=Pm5X_y_MqerZBk98O6uCVpyu1nx1mifFz8v3xEOZR7k
-<img width="2304" height="1851" alt="arduino_4_way_traffic_light_controller_bb_kzx2oSEYJl" src="https://github.com/user-attachments/assets/3cce918e-3dbf-452c-bbab-2570a8d86870" />
+
+<img width="1707" height="835" alt="Copy of Traffic Light" src="https://github.com/user-attachments/assets/349f8fc8-d978-4940-9b6b-cbfe63ae6dcc" />
